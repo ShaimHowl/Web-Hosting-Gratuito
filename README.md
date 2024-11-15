@@ -1,5 +1,9 @@
 # Web-Hosting-Gratuito
-
+### Caracteristica de HubSpot: 
+### Caracteristica de AwardSpace:
+### Caracteristica de LucusHost:
+### Caracteristica de Cowabi:
+### Caracteristica de InfinityFree:
 
 | Provedor  | Almacenamiento | Ancho de banda | Dominios i subdominios | Certificado SSL | Publicidad | Otras caracteristicas | Enlaçe |
 |-----------|----------------|----------------|------------------------|-----------------|------------|-----------------------|--------|
