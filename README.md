@@ -1,7 +1,7 @@
 # Web-Hosting-Gratuito
 ### HubSpot:
 ### AwardSpace:
-### LucusHost:
+### FreeHosting:
 ### Cowabi:
 ### InfinityFree:
 
@@ -18,3 +18,6 @@ HubSpot
 
 AwardSpace
 ![text alternatiu](2.png).
+
+FreeHosting
+![text alternatiu](3.png).
